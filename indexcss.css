@@ -197,8 +197,8 @@ input[type=submit] {
 /* Style the container */
 .container {
   border-radius: 5px;
-  background-color: #f2f2f2;
-  padding: 20px;
+/*  background-color: #f2f2f2;
+*/  padding: 20px;
 }
 
 /* Floating column for labels: 25% width */
